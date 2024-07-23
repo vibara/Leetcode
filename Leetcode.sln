@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestroySequentialTargets", "DestroySequentialTargets\DestroySequentialTargets.csproj", "{33056C28-CB46-4983-B91B-2779F253BEB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotCollisions", "RobotCollisions\RobotCollisions.csproj", "{27536809-0393-4B51-8D7C-DC89B78BC816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33056C28-CB46-4983-B91B-2779F253BEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33056C28-CB46-4983-B91B-2779F253BEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33056C28-CB46-4983-B91B-2779F253BEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33056C28-CB46-4983-B91B-2779F253BEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27536809-0393-4B51-8D7C-DC89B78BC816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27536809-0393-4B51-8D7C-DC89B78BC816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27536809-0393-4B51-8D7C-DC89B78BC816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27536809-0393-4B51-8D7C-DC89B78BC816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2DA76A6-06F3-4531-8FE4-47C3B27269F4}
+	EndGlobalSection
+EndGlobal
