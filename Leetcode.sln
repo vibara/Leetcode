@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestroySequentialTargets", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotCollisions", "RobotCollisions\RobotCollisions.csproj", "{27536809-0393-4B51-8D7C-DC89B78BC816}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortByIncreasingFrequency", "SortByIncreasingFrequency\SortByIncreasingFrequency.csproj", "{4DCB6FAA-607F-4747-902D-58AAE425520B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNLogN", "SortNLogN\SortNLogN.csproj", "{3DB0A4F7-C3CC-4919-80DD-FAEB35810EC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{27536809-0393-4B51-8D7C-DC89B78BC816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27536809-0393-4B51-8D7C-DC89B78BC816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27536809-0393-4B51-8D7C-DC89B78BC816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCB6FAA-607F-4747-902D-58AAE425520B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCB6FAA-607F-4747-902D-58AAE425520B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCB6FAA-607F-4747-902D-58AAE425520B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCB6FAA-607F-4747-902D-58AAE425520B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB0A4F7-C3CC-4919-80DD-FAEB35810EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB0A4F7-C3CC-4919-80DD-FAEB35810EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB0A4F7-C3CC-4919-80DD-FAEB35810EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB0A4F7-C3CC-4919-80DD-FAEB35810EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
